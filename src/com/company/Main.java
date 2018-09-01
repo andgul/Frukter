@@ -27,8 +27,8 @@ public class Main {
         System.out.println("Ett fruktsamt program");
         System.out.println("Totala antal frukter är " + antalFrukter);
 
-        // Kod för att göra ett uppehåll innan pgm avslutas
-        System.out.println("---- Tryck Enter för att avsluta ----");
+        // +++ Kod för att göra ett uppehåll innan pgm avslutas +++
+        //System.out.println("---- Tryck Enter för att avsluta ----");
         //try
         //{
         //  System.in.read();
